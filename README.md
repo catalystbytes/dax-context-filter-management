@@ -7,7 +7,7 @@ Understanding how context and filters work is essential to writing powerful DAX 
 
 Useful for Power BI reports focused on timeline analysis, operational tracking, or performance reviews based on store openings.
 
-https://www.tiktok.com/@catalystbytes/
+https://www.tiktok.com/@catalystbytes/video/7500857806594002183
 
 ```dax
 Store Sales Filter Context = 
